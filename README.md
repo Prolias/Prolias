@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a junior web developer currently in training at OpenClassrooms
+I'm a fullstack java developer currently in training at Diginamic
 
 
 ## 🔗 Links
