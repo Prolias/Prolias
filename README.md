@@ -18,7 +18,7 @@ I'm a fullstack java developer currently in training at Diginamic
 
 ### Frontend
  ![Javascript](https://img.shields.io/badge/_-Javascript-F7DF1E?logo=javascript&style=flat-square&logoColor=grey)
- ![VueJs](https://img.shields.io/badge/_-Vue.js-4FC08D?logo=Vue.js&style=flat-square&logoColor=white)
+ ![Angular](https://img.shields.io/badge/_-Angular-DD0031?logo=Angular&style=flat-square&logoColor=white)
  ![React](https://img.shields.io/badge/_-React-61DAFB?logo=React&style=flat-square&logoColor=grey)
  
  ### Backend
