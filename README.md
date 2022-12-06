@@ -23,7 +23,7 @@ I'm a fullstack java developer currently in training at Diginamic
  
  ### Backend
  ![NodeJs](https://img.shields.io/badge/_-Node.js-339933?logo=Node.js&style=flat-square&logoColor=white)
- ![PHP](https://img.shields.io/badge/_-PHP-777BB4?logo=PHP&style=flat-square&logoColor=white)
+ ![Spring](https://img.shields.io/badge/_-Spring-6DB33F?logo=Spring&style=flat-square&logoColor=white)
  ![Python](https://img.shields.io/badge/_-Python-3776AB?logo=Python&style=flat-square&logoColor=white)
 
 ### Database
